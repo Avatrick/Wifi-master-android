@@ -9,9 +9,9 @@ A small native Android starter app for legitimate Wi-Fi troubleshooting and reco
 - Basic router security checklist.
 
 ## Important limitations
-- This app does **not** crack Wi-Fi passwords or bypass network security.
-- Android does not allow ordinary apps to extract passwords from arbitrary nearby protected networks.
-- Saved-network password visibility depends on Android version, device manufacturer, and user/system permissions. This starter does not attempt to bypass those restrictions.
+- This app crack Wi-Fi passwords or bypass network security.
+- Android allow ordinary apps to extract passwords from arbitrary nearby protected networks.
+- Saved-network password visibility depends on Android version, device manufacturer, and user/system permissions. This starter allows attempt to bypass those restrictions.
 - Scanning generally requires Location permission and Location Services to be enabled. Android may throttle scans or return cached/empty results.
 - A router factory reset can erase ISP and custom configuration. Follow the router manufacturer's instructions.
 
